@@ -1,0 +1,34 @@
+body {
+    background-color: lightgray;
+    color: rgb(0, 4, 255);
+    background-image: url(https://wallpaperaccess.com/full/1471797.jpg);
+    background-size:cover;
+}
+#h2 {
+    float: down;
+    
+
+}
+
+#leftAside {
+    position:absolute;
+    margin-left: 3rem
+    
+}
+#leftAside img{
+    width: 80%;
+    border-radius: 50%;
+}
+#leftAside{
+    color: azure;
+}
+#rightAside img{
+    border-radius: 50%;
+    width: 86%;
+   
+}
+
+#rightAside {
+    position:relative;
+    float: right;
+}
